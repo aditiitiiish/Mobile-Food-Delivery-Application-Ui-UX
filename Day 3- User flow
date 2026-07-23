@@ -1,0 +1,62 @@
+# 📅 Day 3 – User Flow
+
+## 🎯 Objective
+Understand how users interact with the Food Delivery App by creating a User Journey and User Flow.
+
+---
+
+## ✅ Tasks Completed
+
+- Created a User Journey.
+- Designed a User Flow for ordering food.
+- Learned how users navigate through the application.
+- Organized the flow in Figma.
+
+---
+
+## 👤 User Journey
+
+1. Open App
+2. Login
+3. Browse Restaurants
+4. Search Food
+5. View Food Details
+6. Add to Cart
+7. Checkout
+8. Payment
+9. Order Confirmation
+
+---
+
+## 🔄 User Flow
+
+Open App
+↓
+Login
+↓
+Home
+↓
+Search Food
+↓
+Restaurant
+↓
+Food Details
+↓
+Add to Cart
+↓
+Checkout
+↓
+Payment
+↓
+Order Confirmed
+
+---
+
+## 🛠️ Tools Used
+
+- Figma
+
+
+Day 3 Completed
+
+➡️ Next Task: Wireframes
