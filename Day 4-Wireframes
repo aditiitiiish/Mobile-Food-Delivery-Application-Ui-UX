@@ -1,0 +1,62 @@
+# 📅 Day 4 – Wireframes
+
+## 🎯 Objective
+Create low-fidelity wireframes for the core screens of a Food Delivery Mobile Application.
+
+---
+
+## ✅ Tasks Completed
+
+- Designed Login Screen
+- Designed Home Screen
+- Designed Search Screen
+- Designed Cart Screen
+- Created grayscale wireframes in Figma
+- Focused on layout, navigation, and user experience
+
+---
+
+## 📱 Screens Designed
+
+### 🔐 Login
+- Food Delivery branding
+- Email field
+- Password field
+- Login button
+- Forgot Password
+- Create Account
+
+### 🏠 Home
+- Welcome message
+- Search bar
+- Food categories
+- Featured restaurant card
+
+### 🔍 Search
+- Search bar
+- Food categories
+- Food result card
+
+### 🛒 Cart
+- Selected food items
+- Quantity controls
+- Order summary
+- Checkout button
+
+
+
+## 🛠️ Tools Used
+
+- Figma
+
+## 📚 Learning Outcome
+
+Today I learned how to transform user research and user flows into low-fidelity wireframes. This helped me understand screen layouts, navigation, and how users interact with a food delivery application before moving to high-fidelity UI design.
+
+---
+
+## 🚀 Status
+
+✅ Day 4 Completed
+
+➡️ Next Task: High-Fidelity UI Design
