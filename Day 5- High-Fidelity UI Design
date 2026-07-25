@@ -1,0 +1,86 @@
+# 📅 Day 5 – High-Fidelity UI Design
+
+## 🎯 Objective
+Transform low-fidelity wireframes into high-fidelity UI screens for a Food Delivery Mobile Application using Figma.
+
+---
+
+## ✅ Task Completed
+
+Today, I designed the high-fidelity user interface for the Food Delivery App by improving the wireframes with colors, typography, icons, spacing, and visual hierarchy.
+
+---
+
+## 📱 Screens Designed
+
+### 🔐 Login Screen
+- App branding
+- Email field
+- Password field
+- Login button
+- Forgot Password
+- Create Account
+
+### 🏠 Home Screen
+- Welcome section
+- Search bar
+- Food categories
+- Featured restaurant card
+- Clean and modern layout
+
+### 🔍 Search Screen
+- Search bar
+- Food listing cards
+- Ratings and delivery time
+- Simple navigation
+
+### 🛒 Cart Screen
+- Selected food items
+- Quantity controls
+- Order summary
+- Proceed to Checkout button
+
+---
+
+## 🎨 Design System
+
+### Colors
+
+| Purpose | Color |
+|---------|--------|
+| Primary | #FF6B35 |
+| Background | #F8F9FA |
+| Card | #FFFFFF |
+| Border | #E5E7EB |
+| Text | #222222 |
+| Secondary Text | #6B7280 |
+
+### Typography
+
+- Font: Inter
+- Heading: 24px
+- Subheading: 18px
+- Body Text: 16px
+- Caption: 14px
+
+---
+
+## 🛠 Tools Used
+
+- Figma
+
+
+- How to convert wireframes into high-fidelity UI.
+- Importance of visual hierarchy and spacing.
+- Creating a consistent design using colors and typography.
+- Designing interfaces that are clean, simple, and user-friendly.
+- Applying UI design principles to improve usability.
+
+---
+
+
+## 📌 Status
+
+✅ Day 5 Completed
+
+➡️ Next Task: Interactive Prototype
