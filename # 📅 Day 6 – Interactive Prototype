@@ -1,0 +1,55 @@
+# 📅 Day 6 – Interactive Prototype
+
+## 🎯 Objective
+Create an interactive prototype for the Food Delivery Mobile Application using Figma.
+
+---
+
+## ✅ Tasks Completed
+
+- Connected Login to Home
+- Connected Home to Search
+- Connected Search to Cart
+- Connected Cart to Order Success
+- Connected Success screen back to Home
+- Added Smart Animate transitions
+
+---
+
+## 📱 Prototype Flow
+
+Login
+↓
+
+Home
+↓
+
+Search
+
+↓
+
+Cart
+
+↓
+
+Order Success
+
+↓
+
+Home
+
+---
+
+## 🛠 Tools Used
+
+- Figma
+- Prototype Mode
+
+---
+
+#
+## 🚀 Status
+
+✅ Day 6 Completed
+
+➡️ Next Task: Design System & Components
